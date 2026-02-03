@@ -1,0 +1,25 @@
+.map-container {
+    color: #fff;
+    margin-bottom: 2rem;
+    overflow: hidden;
+    /* Fix for rounded corners on map */
+}
+
+.map-container h3 {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    opacity: 0.9;
+}
+
+.map-wrapper {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.leaflet-container {
+    font-family: inherit;
+    z-index: 0;
+    /* Ensure it stays below headers if needed */
+}

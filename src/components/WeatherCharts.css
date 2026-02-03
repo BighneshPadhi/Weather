@@ -1,0 +1,16 @@
+.charts-container {
+    color: #fff;
+    margin-bottom: 2rem;
+}
+
+.charts-container h3 {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    opacity: 0.9;
+}
+
+.chart-wrapper {
+    margin-left: -20px;
+    /* Adjust for chart padding */
+}
